@@ -18,4 +18,8 @@ o	3 = Scissors
 4.	After all rounds, the final results (wins, losses, draws) are displayed.  
 5.	You can choose to replay the game or exit.  
 
- 
+Project Structure:  
+•	main.cpp: Contains the main logic of the game.  
+•	stRoundInfo: Structure for storing individual round details.  
+•	stGameResultsInfo: Structure for tracking overall game results.  
+
