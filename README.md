@@ -3,7 +3,8 @@ An interactive Rock-Paper-Scissors game built using C++. Players compete against
 
 
 Features:    
-Play up to 10 rounds.  
-Tracks and displays player wins, computer wins, and draws.  
-Color-coded feedback and sound effects for each round.  
-Displays final game results and allows replaying the game.  
+•	Play up to 10 rounds.  
+•	Tracks and displays player wins, computer wins, and draws.  
+•	Color-coded feedback and sound effects for each round.  
+•	Displays final game results and allows replaying the game.  
+ 
